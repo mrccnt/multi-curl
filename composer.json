@@ -1,0 +1,13 @@
+{
+  "name": "mrccnt/multi-curl",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5.0",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "MultiCurl\\": "src/"
+    }
+  }
+}
